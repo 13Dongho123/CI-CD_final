@@ -1,6 +1,6 @@
 [
   {
-    "name": "dh-container33",
-    "imageUri": "354493396671.dkr.ecr.eu-central-1.amazonaws.com/dh-ecr@sha256:16516135c347f88a85037ede37f92cd290db5096d8590981beedf2e78edfeaab"
+    "name": "dh-container",
+    "imageUri": "354493396671.dkr.ecr.ap-south-1.amazonaws.com/dh-hub@sha256:0ec8657f159905f80aa7c6b763d6ce3668fe2a3cf1a7e617e865ca2a9bb26b1e"
   }
 ]

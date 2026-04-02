@@ -36,7 +36,7 @@ Resources:
     Properties:
       VpcId: !Ref LabVPC
       CidrBlock: 10.0.1.0/24
-      AvailabilityZone: eu-central-1a
+      AvailabilityZone: ap-south-1a
       MapPublicIpOnLaunch: true
       Tags:
         - Key: Name
@@ -50,7 +50,7 @@ Resources:
     Properties:
       VpcId: !Ref LabVPC
       CidrBlock: 10.0.2.0/24
-      AvailabilityZone: eu-central-1c
+      AvailabilityZone: ap-south-1c
       MapPublicIpOnLaunch: true
       Tags:
         - Key: Name
