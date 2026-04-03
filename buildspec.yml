@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: ap-south-1
-    REPOSITORY_URI: 354493396671.dkr.ecr.ap-south-1.amazonaws.com/dh-hub
+    REPOSITORY_URI: 293180004648.dkr.ecr.ap-south-1.amazonaws.com/dh-hub
 
 phases:
   pre_build:
